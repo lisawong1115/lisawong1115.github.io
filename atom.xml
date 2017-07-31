@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lisawong1115.github.io/"/>
-  <updated>2017-07-23T12:55:40.000Z</updated>
+  <updated>2017-07-31T10:03:54.000Z</updated>
   <id>http://lisawong1115.github.io/</id>
   
   <author>
@@ -16,11 +16,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>更新日志17/07/31</title>
+    <link href="http://lisawong1115.github.io/2017/07/31/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    <id>http://lisawong1115.github.io/2017/07/31/更新日志/</id>
+    <published>2017-07-31T09:49:36.000Z</published>
+    <updated>2017-07-31T10:03:54.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;更改了博客名&lt;/li&gt;
+&lt;li&gt;配置了评论、站内搜索及RSS订阅功能&lt;/li&gt;
+&lt;li&gt;添加了社交账号链接&lt;/li&gt;
+&lt;li&gt;添加了标签及归类&lt;/li&gt;
+&lt;/ul&gt;
+
+    
+    </summary>
+    
+      <category term="test" scheme="http://lisawong1115.github.io/categories/test/"/>
+    
+    
+      <category term="tech" scheme="http://lisawong1115.github.io/tags/tech/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hi James</title>
     <link href="http://lisawong1115.github.io/2017/07/23/Hi-James/"/>
     <id>http://lisawong1115.github.io/2017/07/23/Hi-James/</id>
     <published>2017-07-23T12:51:39.000Z</published>
-    <updated>2017-07-23T12:55:40.000Z</updated>
+    <updated>2017-07-31T10:03:29.000Z</updated>
     
     <summary type="html">
     
@@ -30,6 +56,10 @@
     
     </summary>
     
+      <category term="test" scheme="http://lisawong1115.github.io/categories/test/"/>
+    
+    
+      <category term="other" scheme="http://lisawong1115.github.io/tags/other/"/>
     
   </entry>
   
@@ -38,7 +68,7 @@
     <link href="http://lisawong1115.github.io/2017/07/14/hello-world/"/>
     <id>http://lisawong1115.github.io/2017/07/14/hello-world/</id>
     <published>2017-07-14T12:30:06.000Z</published>
-    <updated>2017-07-14T12:30:06.000Z</updated>
+    <updated>2017-07-31T10:03:45.000Z</updated>
     
     <summary type="html">
     

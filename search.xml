@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[更新日志17/07/31]]></title>
+    <url>%2F2017%2F07%2F31%2F%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97%2F</url>
+    <content type="text"><![CDATA[更改了博客名 配置了评论、站内搜索及RSS订阅功能 添加了社交账号链接 添加了标签及归类]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>tech</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hi James]]></title>
     <url>%2F2017%2F07%2F23%2FHi-James%2F</url>
     <content type="text"><![CDATA[Hello my first visitor! 希望你喜欢这个啥也没有的主题和啥也没有的页面。 写代码是一个不断学习的过程，期间整整这些七七八八的小东西，也挺有意思的。希望自己能够静下心来写写生活感悟，你要监督我哦！ 最后送你一段小代码： def hi_james(): print &quot;Love you!&quot; ----------------test---------------- if __name__ == &quot;__main__&quot;: hi_james() Love you! xoxo]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>other</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
